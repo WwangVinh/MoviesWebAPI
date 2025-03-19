@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "yl6NIfIhUVEAuTRtNeibBQEKQrWAHiu6k1rGPFGCc1w=",
+  "Source": "MoviesWebAPI",
+  "BasePath": "_content/MoviesWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\MoviesWebAPI\\MoviesDB\\MoviesDB.csproj",
+      "Version": 2,
+      "Source": "MoviesDB",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

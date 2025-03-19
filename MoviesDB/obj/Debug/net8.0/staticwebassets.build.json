@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LRvKmZBXNIQ49rSZldf3AYKYlMesIMcu7SzcwBECrfE=",
+  "Source": "MoviesDB",
+  "BasePath": "_content/MoviesDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
